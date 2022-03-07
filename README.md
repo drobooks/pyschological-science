@@ -1,8 +1,7 @@
 # Psychology
 
-A categorized community-driven collection of high-quality awesome Psychology courses, videos, and books.
+> A categorized community-driven collection of high-quality awesome Psychology courses, videos and books, learning tutotials, discussions, and important books.
 
-Suggestions and contributions are always welcome!
 
 ## Table Of Contents
 - [Psychology Books](#psychology-books)  
