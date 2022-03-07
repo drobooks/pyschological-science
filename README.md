@@ -1,4 +1,4 @@
-# pyschological-science
+# Psychology
 
 A categorized community-driven collection of high-quality awesome Psychology courses, videos, and books.
 
